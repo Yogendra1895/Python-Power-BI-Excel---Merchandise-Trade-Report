@@ -1,10 +1,8 @@
 # 📊 Merchandise Trade Report – Import/Export Analysis  
 
-![Dashboard Preview](Merchandise%20Report.JPG)  
+## 🔎 Dashboard Preview
+![Merchandise Report](https://github.com/user-attachments/assets/ff042bd5-719b-4e45-9b82-db976dc6db17)
 
-[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)](https://www.python.org/)  
-[![Power BI](https://img.shields.io/badge/Visualized%20in-Power%20BI-yellow?logo=powerbi)](https://powerbi.microsoft.com/)  
-[![Excel](https://img.shields.io/badge/Data%20Cleaned%20in-Excel-green?logo=microsoft-excel)](https://www.microsoft.com/en-us/microsoft-365/excel)  
 
 ---
 
@@ -52,12 +50,6 @@ It uncovers **trade imbalances, sector contributions, and country-level insights
 - **Negative Trade Balance Leaders**: India, WTO Members, USA  
 - **Trend**: Strong export growth post-2000, dip in 2020 (COVID), recovery afterward  
 
----
-
-## 📊 Dashboard Sneak Peek  
-📌 **Interactive Dashboard Built in Power BI**  
-
-![Trade Dashboard](Merchandise%20Report.JPG)  
 
 ---
 
